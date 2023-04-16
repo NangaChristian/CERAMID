@@ -1,3 +1,3 @@
-# CERAMID
+# CERIMED
 Medical consultation
  
